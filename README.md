@@ -16,6 +16,8 @@
 | 301  | [Remove Invalid Parentheses](./301.md)                       | Hard           | DFS,z       |
 | 312  | [Burst Balloons](./312.md)                                   | Hard           | dp,s,分治   |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](./309.md)    | Medium         | dp,z,s      |
+| 337  | [House Robber III](./337.md)                                 | Medium         | tree,dp     |
+| 347  | [Top K Frequent Elements](./347.md)                          | Medium         | bucket sort |
 | 437  | [Path Sum III](./437.md)                                     |                | tree,s      |
 | 461  | [Hamming Distance](./461.md)                                 |                | b           |
 | 581  | [Shortest Unsorted Continuous Subarray](./581.md)            | Easy(并不easy) | z           |
