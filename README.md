@@ -18,6 +18,7 @@
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](./309.md)    | Medium         | dp,z,s      |
 | 337  | [House Robber III](./337.md)                                 | Medium         | tree,dp     |
 | 347  | [Top K Frequent Elements](./347.md)                          | Medium         | bucket sort |
+| 347  | [Decode String](./394.md)                                    | Medium         | stack,recursive  |
 | 437  | [Path Sum III](./437.md)                                     |                | tree,s      |
 | 461  | [Hamming Distance](./461.md)                                 |                | b           |
 | 581  | [Shortest Unsorted Continuous Subarray](./581.md)            | Easy(并不easy) | z           |
