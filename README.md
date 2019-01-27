@@ -17,6 +17,7 @@
 | 312  | [Burst Balloons](./312.md)                                   | Hard           | dp,s,分治   |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](./309.md)    | Medium         | dp,z,s      |
 | 337  | [House Robber III](./337.md)                                 | Medium         | tree,dp     |
+| 338  | [Counting Bits](./338.md)                                 | Medium         | 位操作    |
 | 347  | [Top K Frequent Elements](./347.md)                          | Medium         | bucket sort |
 | 394  | [Decode String](./394.md)                                    | Medium         | stack,recursive  |
 | 437  | [Path Sum III](./437.md)                                     |                | tree,s      |
