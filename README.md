@@ -21,6 +21,7 @@
 | 347  | [Top K Frequent Elements](./347.md)                          | Medium         | bucket sort |
 | 394  | [Decode String](./394.md)                                    | Medium         | stack,recursive  |
 | 406  | [Queue Reconstruction by Height](./406.md)                   |     Medium     |贪心,(bucket) |
+| 416 | [Partition Equal Subset Sum](./416.md) | Medium |dp |
 | 437  | [Path Sum III](./437.md)                                     |                | tree,s      |
 | 461  | [Hamming Distance](./461.md)                                 |                | b           |
 | 581  | [Shortest Unsorted Continuous Subarray](./581.md)            | Easy(并不easy) | z           |
