@@ -25,6 +25,7 @@
 | 437  | [Path Sum III](./437.md)                                     |                | tree,s      |
 | 461  | [Hamming Distance](./461.md)                                 |                | b           |
 | 581  | [Shortest Unsorted Continuous Subarray](./581.md)            | Easy(并不easy) | z           |
+| 621  | [Task Scheduler](./621.md)                                   | Medium          | z           |
 | 647  | [Palindromic Substrings](./647.md)                           | Medium         | string,dp        |
 | 877  | [Stone Game](https://leetcode.com/problems/stone-game/description/) | Medium         |             |
 |      |                                                              |                |             |
