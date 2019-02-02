@@ -21,10 +21,11 @@
 | 347  | [Top K Frequent Elements](./347.md)                          | Medium         | bucket sort    |
 | 394  | [Decode String](./394.md)                                    | Medium         | stack,recursive |
 | 406  | [Queue Reconstruction by Height](./406.md)                   | Medium         | 贪心,(bucket)   |
-| 416 | [Partition Equal Subset Sum](./416.md)                        | Medium         | dp             |
+| 416  | [Partition Equal Subset Sum](./416.md)                       | Medium         | dp             |
 | 437  | [Path Sum III](./437.md)                                     |                | tree,s         |
 | 461  | [Hamming Distance](./461.md)                                 |                | b              |
 | 461  | [Subtree of Another Tree](./572.md)                          | Easy           | s              |
+| 560  | [Subarray Sum Equals K](./560.md)                            | Easy           | z              |
 | 581  | [Shortest Unsorted Continuous Subarray](./581.md)            | Easy(not easy) | z              |
 | 621  | [Task Scheduler](./621.md)                                   | Medium         | z              |
 | 647  | [Palindromic Substrings](./647.md)                           | Medium         | string,dp      |
