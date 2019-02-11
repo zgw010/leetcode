@@ -24,7 +24,8 @@
 | 416  | [Partition Equal Subset Sum](./416.md)                       | Medium         | dp             |
 | 437  | [Path Sum III](./437.md)                                     |                | tree,s         |
 | 461  | [Hamming Distance](./461.md)                                 |                | b              |
-| 461  | [Subtree of Another Tree](./572.md)                          | Easy           | s              |
+| 494  | [Target Sum](./494.md)                                       |                | dp,recursive   |
+| 572  | [Subtree of Another Tree](./572.md)                          | Easy           | s              |
 | 560  | [Subarray Sum Equals K](./560.md)                            | Easy           | z              |
 | 581  | [Shortest Unsorted Continuous Subarray](./581.md)            | Easy(not easy) | z              |
 | 621  | [Task Scheduler](./621.md)                                   | Medium         | z              |
