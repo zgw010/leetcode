@@ -24,6 +24,7 @@
 | 416  | [Partition Equal Subset Sum](./416.md)                       | Medium         | dp             |
 | 437  | [Path Sum III](./437.md)                                     |                | tree,s         |
 | 438  | [Find All Anagrams in a String](./438.md)                    | Easy           | string,s       |
+| 448  | [Find All Numbers Disappeared in an Array](./448.md)         | Easy           | array,z        |
 | 461  | [Hamming Distance](./461.md)                                 |                | b              |
 | 494  | [Target Sum](./494.md)                                       |                | dp,recursive   |
 | 572  | [Subtree of Another Tree](./572.md)                          | Easy           | s              |
