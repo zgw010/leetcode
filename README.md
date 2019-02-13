@@ -28,8 +28,9 @@
 | 461  | [Hamming Distance](./461.md)                                 |                | b              |
 | 494  | [Target Sum](./494.md)                                       |                | dp,recursive   |
 | 538  | [Convert BST to Greater Tree](./538.md)                      | Easy           | tree           |
-| 572  | [Subtree of Another Tree](./572.md)                          | Easy           | s              |
+| 543  | [Diameter of Binary Tree](./543.md)                          | Easy           | tree           |
 | 560  | [Subarray Sum Equals K](./560.md)                            | Easy           | z              |
+| 572  | [Subtree of Another Tree](./572.md)                          | Easy           | s              |
 | 581  | [Shortest Unsorted Continuous Subarray](./581.md)            | Easy(not easy) | z              |
 | 621  | [Task Scheduler](./621.md)                                   | Medium         | z              |
 | 647  | [Palindromic Substrings](./647.md)                           | Medium         | string,dp      |
