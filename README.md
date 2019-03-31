@@ -38,7 +38,7 @@
 | 621  | [Task Scheduler](./621.md)                                   | Medium         | z              |
 | 647  | [Palindromic Substrings](./647.md)                           | Medium         | string,dp      |
 | 877  | [Stone Game](./877)                                          | Medium         |                |
-|      |                                                              |                |                |
+| 1019 | [Next Greater Node In Linked List](./1019.md)                   | Medium         | stack          |
 |      |                                                              |                |                |
 |      |                                                              |                |                |
 |      |                                                              |                |                |
