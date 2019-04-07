@@ -43,6 +43,7 @@
 | 1019 | [Next Greater Node In Linked List](./code/1019.md)                | Medium         | b                |
 | 1020 | [Number of Enclaves](./code/1020.md)                              | Medium         | stack            |
 | 1023 | [Camelcase Matching](./code/1023.md)                              | Medium         | string           |
+| 1024 | [Video Stitching](./code/1024.md)                                 | Medium         | array            |
 | 5017 | [Sum of Root To Leaf Binary Numbers](./code/5017.md)              | Easy           | tree             |
 |      |                                                                   |                | dfs              |
 
