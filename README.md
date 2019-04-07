@@ -42,6 +42,7 @@
 | 1017 | [Convert to Base -2](./code/1017)                                 | Medium         |                  |
 | 1019 | [Next Greater Node In Linked List](./code/1019.md)                | Medium         | b                |
 | 1020 | [Number of Enclaves](./code/1020.md)                              | Medium         | stack            |
+| 5017 | [Sum of Root To Leaf Binary Numbers](./code/5017.md)              | Easy           | tree             |
 |      |                                                                   |                | dfs              |
 
 z: 智商题
