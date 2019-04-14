@@ -44,6 +44,7 @@
 | 1020 | [Number of Enclaves](./code/1020.md)                              | Medium         | stack            |
 | 1023 | [Camelcase Matching](./code/1023.md)                              | Medium         | string           |
 | 1024 | [Video Stitching](./code/1024.md)                                 | Medium         | array            |
+| 1025 | [Divisor Game](./code/1025.md)                                    | Easy           | z,math           |
 | 5017 | [Sum of Root To Leaf Binary Numbers](./code/5017.md)              | Easy           | tree             |
 |      |                                                                   |                | dfs              |
 
