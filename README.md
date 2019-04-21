@@ -42,12 +42,12 @@
 | 1017 | [Convert to Base -2](./code/1017)                                 | Medium         |                  |
 | 1019 | [Next Greater Node In Linked List](./code/1019.md)                | Medium         | b                |
 | 1020 | [Number of Enclaves](./code/1020.md)                              | Medium         | stack            |
+| 1022 | [Sum of Root To Leaf Binary Numbers](./code/1022.md)              | Easy           | tree             |
 | 1023 | [Camelcase Matching](./code/1023.md)                              | Medium         | string           |
 | 1024 | [Video Stitching](./code/1024.md)                                 | Medium         | array            |
 | 1025 | [Divisor Game](./code/1025.md)                                    | Easy           | z,math           |
 | 1028 | [Recover a Tree From Preorder Traversal](./code/1028.md)          | Hard           | s,tree,stack     |
 | 1029 | [Two City Scheduling](./code/1029.md)                             | Easy           | sort,z           |
-| 5017 | [Sum of Root To Leaf Binary Numbers](./code/5017.md)              | Easy           | tree             |
 |      |                                                                   |                | dfs              |
 
 z: 智商题
