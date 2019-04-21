@@ -48,6 +48,7 @@
 | 1025 | [Divisor Game](./code/1025.md)                                    | Easy           | z,math           |
 | 1028 | [Recover a Tree From Preorder Traversal](./code/1028.md)          | Hard           | s,tree,stack     |
 | 1029 | [Two City Scheduling](./code/1029.md)                             | Easy           | sort,z           |
+| 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](./code/1031.md)    | Medium         | dp,s             |
 |      |                                                                   |                | dfs              |
 
 z: 智商题
