@@ -6,6 +6,7 @@
 | 44   | [Wildcard Matching](./code/44.md)                                 | Hard           | dp,backtrack     |
 | 74   | [Search a 2D Matrix](./code/74.md)                                | Medium         | binary           |
 | 113  | [Path-Sum-II](./code/112.md)                                      | Medium         | tree,dfs         |
+| 123  | [Best Time to Buy and Sell Stock III](./code/123.md)              | Hard           | dp,z             |
 | 142  | [Linked List Cycle II](./code/142.md)                             | Medium         | list             |
 | 213  | [House Robber II](./code/213.md)                                  | Medium         |                  |
 | 236  | [Lowest Common Ancestor of a Binary Tree](./code/236.md)          |                | recursive        |
