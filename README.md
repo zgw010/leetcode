@@ -51,8 +51,9 @@
 | 1029 | [Two City Scheduling](./code/1029.md)                             | Easy           | sort,z           |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](./code/1031.md)    | Medium         | dp,s             |
 | 1035 | [Uncrossed Lines](./code/1031.md)                                 | Medium         | dp,s             |
+| 1039 | [Minimum Score Triangulation of Polygon](./code/1039.md)          | Medium         | dp               |
 |      |                                                                   |                | dfs              |
-
+	
 z: 智商题
 
 s: 比较固定且常见的
