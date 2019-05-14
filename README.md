@@ -50,6 +50,7 @@
 | 1028 | [Recover a Tree From Preorder Traversal](./code/1028.md)          | Hard           | s,tree,stack     |
 | 1029 | [Two City Scheduling](./code/1029.md)                             | Easy           | sort,z           |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](./code/1031.md)    | Medium         | dp,s             |
+| 1032 | [Stream of Characters](./code/1032.md)                            | Medium         | trie             |
 | 1035 | [Uncrossed Lines](./code/1031.md)                                 | Medium         | dp,s             |
 | 1039 | [Minimum Score Triangulation of Polygon](./code/1039.md)          | Medium         | dp               |
 |      |                                                                   |                | dfs              |
