@@ -4,6 +4,7 @@
 | 32   | [Longest Valid Parentheses](./code/32.md)                         |                |                  |
 | 33   | [Search in Rotated Sorted Array](./code/33.md)                    |                |                  |
 | 44   | [Wildcard Matching](./code/44.md)                                 | Hard           | dp,backtrack     |
+| 54   | [Spiral Matrix](./code/54.md)                                     | Medium(Easy)   | array,s          |
 | 74   | [Search a 2D Matrix](./code/74.md)                                | Medium         | binary           |
 | 113  | [Path-Sum-II](./code/112.md)                                      | Medium         | tree,dfs         |
 | 123  | [Best Time to Buy and Sell Stock III](./code/123.md)              | Hard           | dp,z             |
