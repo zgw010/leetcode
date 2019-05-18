@@ -1,4 +1,4 @@
-| #    | Problem                                                        | Difficulty     |                 |
+| #    | Problem                                                        | Difficulty     | Type            |
 |------|----------------------------------------------------------------|----------------|-----------------|
 | 10   | [Regular Expression Matching](./code/10.md)                    | Hard           | dp              |
 | 32   | [Longest Valid Parentheses](./code/32.md)                      |                |                 |
@@ -54,8 +54,9 @@
 | 1032 | [Stream of Characters](./code/1032.md)                         | Medium         | trie            |
 | 1035 | [Uncrossed Lines](./code/1031.md)                              | Medium         | dp,s            |
 | 1039 | [Minimum Score Triangulation of Polygon](./code/1039.md)       | Medium         | dp              |
-|      |                                                                |                | dfs             |
-	
+
+
+
 z: 智商题
 
 s: 比较固定且常见的
