@@ -11,3 +11,11 @@ a:hover {
 #downloads, hr {
   display: none;
 }
+
+body, #container {
+  background: none;
+}
+
+table, tr, td {
+  border: 1px solid #d1989c;
+}
