@@ -54,6 +54,9 @@
 | 1032 | [Stream of Characters](./code/1032.md)                         | Medium         | trie            |
 | 1035 | [Uncrossed Lines](./code/1031.md)                              | Medium         | dp,s            |
 | 1039 | [Minimum Score Triangulation of Polygon](./code/1039.md)       | Medium         | dp              |
+| 1046 | [Last Stone Weight](./code/1046.md)                            | Easy           | array           |
+| 1047 | [Remove All Adjacent Duplicates In String](./code/1047.md)     | Easy           | stack           |
+| 1048 | [Longest String Chain](./code/1048.md)                         | Medium         | dp,s            |
 
 
 
