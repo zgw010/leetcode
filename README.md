@@ -57,6 +57,7 @@
 | 1046 | [Last Stone Weight](./code/1046.md)                            | Easy           | array           |
 | 1047 | [Remove All Adjacent Duplicates In String](./code/1047.md)     | Easy           | stack           |
 | 1048 | [Longest String Chain](./code/1048.md)                         | Medium         | dp,s            |
+| 1049 | [Last Stone Weight II](./code/1049.md)                         | Medium         | dp              |
 
 
 
