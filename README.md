@@ -59,6 +59,7 @@
 | 1048 | [Longest String Chain](./code/1048.md)                         | Medium         | dp,s            |
 | 1049 | [Last Stone Weight II](./code/1049.md)                         | Medium         | dp              |
 | 1078 | [Occurrences After Bigram](./code/1078.md)                     | Easy           | string          |
+| 1081 | [Smallest Subsequence of Distinct Characters](./code/1081.md)  | Medium         | string          |
 
 
 
