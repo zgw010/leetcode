@@ -60,6 +60,7 @@
 | 1049 | [Last Stone Weight II](./code/1049.md)                         | Medium         | dp              |
 | 1078 | [Occurrences After Bigram](./code/1078.md)                     | Easy           | string          |
 | 1081 | [Smallest Subsequence of Distinct Characters](./code/1081.md)  | Medium         | string          |
+| 1092 | [Shortest Common Supersequence](./code/1092.md)                | Hard           | string          |
 
 
 
