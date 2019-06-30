@@ -63,6 +63,7 @@
 | 1081 | [Smallest Subsequence of Distinct Characters](./code/1081.md)  | Medium         | string          |
 | 1090 | [Largest Values From Labels](./code/1090.md)                   | Medium         | map             |
 | 1092 | [Shortest Common Supersequence](./code/1092.md)                | Hard           | string          |
+| 1105 | [Filling Bookcase Shelves](./code/1105.md)                     | Medium         | dp              |
 
 
 
