@@ -10,6 +10,7 @@
 | 113  | [Path-Sum-II](./code/112.md)                                   | Medium         | tree,dfs        |
 | 123  | [Best Time to Buy and Sell Stock III](./code/123.md)           | Hard           | dp,z            |
 | 142  | [Linked List Cycle II](./code/142.md)                          | Medium         | list            |
+| 188  | [Best Time to Buy and Sell Stock IV](./code/188.md)            | Hard           | dp,s            |
 | 213  | [House Robber II](./code/213.md)                               | Medium         |                 |
 | 236  | [Lowest Common Ancestor of a Binary Tree](./code/236.md)       |                | recursive       |
 | 239  | [Sliding Window Maximum](./code/239.md)                        | Hard           | doubleQueue     |
