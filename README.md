@@ -66,6 +66,7 @@
 | 1092 | [Shortest Common Supersequence](./code/1092.md)                | Hard           | string          |
 | 1104 | [Path In Zigzag Labelled Binary Tree](./code/1104.md)          | Easy           | tree,math       |
 | 1105 | [Filling Bookcase Shelves](./code/1105.md)                     | Medium         | dp,s            |
+| 1125 | [Smallest Sufficient Team](./code/1125.md)                     | Hard           | dp,b            |
 
 
 
