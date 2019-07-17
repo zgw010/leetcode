@@ -43,6 +43,7 @@
 | 621  | [Task Scheduler](./code/621.md)                                | Medium         | z               |
 | 647  | [Palindromic Substrings](./code/647.md)                        | Medium         | string,dp       |
 | 877  | [Stone Game](./code/877)                                       | Medium         |                 |
+| 1012 | [Numbers With Repeated Digits](./code/1012)                    | Hard           | bit,math        |
 | 1017 | [Convert to Base -2](./code/1017)                              | Medium         |                 |
 | 1019 | [Next Greater Node In Linked List](./code/1019.md)             | Medium         | b               |
 | 1020 | [Number of Enclaves](./code/1020.md)                           | Medium         | stack           |
