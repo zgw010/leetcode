@@ -69,7 +69,8 @@
 | 1105 | [Filling Bookcase Shelves](./code/1105.md)                     | Medium         | dp,s            |
 | 1125 | [Smallest Sufficient Team](./code/1125.md)                     | Hard           | dp,b            |
 | 1129 | [Shortest Path with Alternating Colors](./code/1129.md)        | Medium         | bfs,graph       |
-| 1129 | [Minimum Cost Tree From Leaf Values](./code/1130.md)           | Medium         | greedy,tree     |
+| 1130 | [Minimum Cost Tree From Leaf Values](./code/1130.md)           | Medium         | greedy,tree     |
+| 1131 | [Maximum of Absolute Value Expression](./code/1131.md)         | Medium         | math            |
 
 
 
