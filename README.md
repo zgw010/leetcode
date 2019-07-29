@@ -72,6 +72,7 @@
 | 1129 | [Shortest Path with Alternating Colors](./code/1129.md)        | Medium         | bfs,graph       |
 | 1130 | [Minimum Cost Tree From Leaf Values](./code/1130.md)           | Medium         | greedy,tree     |
 | 1131 | [Maximum of Absolute Value Expression](./code/1131.md)         | Medium         | math            |
+| 1138 | [Alphabet Board Path](./code/1138.md)                          | Medium         |                 |
 
 
 
