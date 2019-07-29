@@ -34,6 +34,7 @@
 | 438  | [Find All Anagrams in a String](./code/438.md)                 | Easy           | string,s        |
 | 448  | [Find All Numbers Disappeared in an Array](./code/448.md)      | Easy           | array,z         |
 | 461  | [Hamming Distance](./code/461.md)                              |                | b               |
+| 486  | [Predict the Winner](./code/486.md)                            | Medium         | dp              |
 | 494  | [Target Sum](./code/494.md)                                    |                | dp,recursive    |
 | 538  | [Convert BST to Greater Tree](./code/538.md)                   | Easy           | tree            |
 | 543  | [Diameter of Binary Tree](./code/543.md)                       | Easy           | tree,s          |
