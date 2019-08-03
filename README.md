@@ -28,6 +28,7 @@
 | 338  | [Counting Bits](./code/338.md)                                 | Medium         | b             |
 | 347  | [Top K Frequent Elements](./code/347.md)                       | Medium         | bucket sort     |
 | 394  | [Decode String](./code/394.md)                                 | Medium         | stack,recursive |
+| 399  | [Evaluate Division](./code/399.md)                             | Medium         | graph           |
 | 406  | [Queue Reconstruction by Height](./code/406.md)                | Medium         | greedy,(bucket) |
 | 416  | [Partition Equal Subset Sum](./code/416.md)                    | Medium         | dp              |
 | 437  | [Path Sum III](./code/437.md)                                  |                | tree,s          |
