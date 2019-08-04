@@ -75,6 +75,7 @@
 | 1131 | [Maximum of Absolute Value Expression](./code/1131.md)         | Medium         | math            |
 | 1138 | [Alphabet Board Path](./code/1138.md)                          | Medium         |                 |
 | 1140 | [Stone Game II](./code/1140.md)                                | Medium         | dfs             |
+| 1144 | [Decrease Elements To Make Array Zigzag](./code/1144.md)       | Easy           | array           |
 
 
 
