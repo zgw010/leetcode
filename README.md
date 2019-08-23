@@ -1,11 +1,12 @@
 | #    | Problem                                                        | Difficulty     | Type            |
-|------|----------------------------------------------------------------|----------------|-----------------|
+| ---- | -------------------------------------------------------------- | -------------- | --------------- |
 | 10   | [Regular Expression Matching](./code/10.md)                    | Hard           | dp              |
 | 32   | [Longest Valid Parentheses](./code/32.md)                      |                |                 |
 | 33   | [Search in Rotated Sorted Array](./code/33.md)                 |                |                 |
 | 44   | [Wildcard Matching](./code/44.md)                              | Hard           | dp,backtrack    |
 | 54   | [Spiral Matrix](./code/54.md)                                  | Medium(Easy)   | array,s         |
 | 74   | [Search a 2D Matrix](./code/74.md)                             | Medium         | binary          |
+| 91   | [Decode Ways](./code/91.md)                                    | Medium         | dp              |
 | 109  | [Convert Sorted List to Binary Search Tree](./code/109.md)     | Medium         | tree,dfs        |
 | 113  | [Path-Sum-II](./code/112.md)                                   | Medium         | tree,dfs        |
 | 123  | [Best Time to Buy and Sell Stock III](./code/123.md)           | Hard           | dp,z            |
@@ -25,7 +26,7 @@
 | 312  | [Burst Balloons](./code/312.md)                                | Hard           | dp,s,divide     |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](./code/309.md) | Medium         | dp,z,s          |
 | 337  | [House Robber III](./code/337.md)                              | Medium         | tree,dp         |
-| 338  | [Counting Bits](./code/338.md)                                 | Medium         | b             |
+| 338  | [Counting Bits](./code/338.md)                                 | Medium         | b               |
 | 347  | [Top K Frequent Elements](./code/347.md)                       | Medium         | bucket sort     |
 | 394  | [Decode String](./code/394.md)                                 | Medium         | stack,recursive |
 | 399  | [Evaluate Division](./code/399.md)                             | Medium         | graph           |
