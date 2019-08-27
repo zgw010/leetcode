@@ -5,6 +5,7 @@
 | 33   | [Search in Rotated Sorted Array](./code/33.md)                       |           |                 |
 | 44   | [Wildcard Matching](./code/44.md)                                    | Hard      | dp,backtrack    |
 | 54   | [Spiral Matrix](./code/54.md)                                        | Medium    | array,s         |
+| 72   | [Edit Distance](./code/72.md)                                        | Hard      | dp              |
 | 74   | [Search a 2D Matrix](./code/74.md)                                   | Medium    | binary          |
 | 91   | [Decode Ways](./code/91.md)                                          | Medium    | dp              |
 | 109  | [Convert Sorted List to Binary Search Tree](./code/109.md)           | Medium    | tree,dfs        |
