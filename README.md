@@ -79,6 +79,8 @@
 | 1140 | [Stone Game II](./code/1140.md)                                      | Medium    | dfs             |
 | 1144 | [Decrease Elements To Make Array Zigzag](./code/1144.md)             | Easy      | array           |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](./code/1171.md) | Medium    | list            |
+| 1175 | [Prime Arrangements](./code/1175.md)                                 | Easy      | math            |
+| 1178 | [Number of Valid Words for Each Puzzle](./code/1178.md)              | Hard      | b               |
 
 
 
