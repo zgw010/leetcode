@@ -81,6 +81,7 @@
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](./code/1171.md) | Medium    | list            |
 | 1175 | [Prime Arrangements](./code/1175.md)                                 | Easy      | math            |
 | 1178 | [Number of Valid Words for Each Puzzle](./code/1178.md)              | Hard      | b               |
+| 1187 | [Make Array Strictly Increasing](./code/1187.md)                     | Hard      | dp,LIS          |
 
 
 
