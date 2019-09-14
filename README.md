@@ -8,6 +8,7 @@
 | 72   | [Edit Distance](./code/72.md)                                        | Hard      | dp              |
 | 74   | [Search a 2D Matrix](./code/74.md)                                   | Medium    | binary          |
 | 91   | [Decode Ways](./code/91.md)                                          | Medium    | dp              |
+| 108  | [Convert Sorted Array to Binary Search Tree](./code/108.md)          | Easy      | tree,dfs        |
 | 109  | [Convert Sorted List to Binary Search Tree](./code/109.md)           | Medium    | tree,dfs        |
 | 113  | [Path-Sum-II](./code/112.md)                                         | Medium    | tree,dfs        |
 | 123  | [Best Time to Buy and Sell Stock III](./code/123.md)                 | Hard      | dp,z            |
