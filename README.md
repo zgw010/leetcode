@@ -11,6 +11,7 @@
 | 108  | [Convert Sorted Array to Binary Search Tree](./code/108.md)          | Easy      | tree,dfs        |
 | 109  | [Convert Sorted List to Binary Search Tree](./code/109.md)           | Medium    | tree,dfs        |
 | 113  | [Path-Sum-II](./code/112.md)                                         | Medium    | tree,dfs        |
+| 116  | [Populating Next Right Pointers in Each Node](./code/116.md)         | Medium    | tree            |
 | 123  | [Best Time to Buy and Sell Stock III](./code/123.md)                 | Hard      | dp,z            |
 | 142  | [Linked List Cycle II](./code/142.md)                                | Medium    | list            |
 | 188  | [Best Time to Buy and Sell Stock IV](./code/188.md)                  | Hard      | dp,s            |
