@@ -86,6 +86,7 @@
 | 1178 | [Number of Valid Words for Each Puzzle](./code/1178.md)              | Hard      | b               |
 | 1187 | [Make Array Strictly Increasing](./code/1187.md)                     | Hard      | dp,LIS          |
 | 1192 | [Critical Connections in a Network](./code/1189-1192.md)             | Hard      | graph           |
+| 1219 | [Path with Maximum Gold](./code/1217-1220.md)                        | Medium    | dfs             |
 
 
 
