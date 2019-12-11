@@ -13,7 +13,8 @@
 | 113  | [Path-Sum-II](./code/112.md)                                         | Medium    | tree,dfs        |
 | 116  | [Populating Next Right Pointers in Each Node](./code/116.md)         | Medium    | tree            |
 | 123  | [Best Time to Buy and Sell Stock III](./code/123.md)                 | Hard      | dp,z            |
-| 132  | [Palindrome Partitioning II](./code/131&132.md)                      | Hard      | dp            |
+| 132  | [Palindrome Partitioning II](./code/131&132.md)                      | Hard      | dp              |
+| 134  | [gas-station](./code/134.gas-station.js)                             | Medium    | greedy          |
 | 142  | [Linked List Cycle II](./code/142.md)                                | Medium    | list            |
 | 188  | [Best Time to Buy and Sell Stock IV](./code/188.md)                  | Hard      | dp,s            |
 | 213  | [House Robber II](./code/213.md)                                     | Medium    |                 |
