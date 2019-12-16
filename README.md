@@ -15,6 +15,7 @@
 | 123  | [Best Time to Buy and Sell Stock III](./code/123.md)                 | Hard      | dp,z            |
 | 132  | [Palindrome Partitioning II](./code/131&132.md)                      | Hard      | dp              |
 | 134  | [gas-station](./code/134.gas-station.js)                             | Medium    | greedy          |
+| 140  | [word-break-ii](./code/140.word-break-ii.js)                         | Hard      | dfs             |
 | 142  | [Linked List Cycle II](./code/142.md)                                | Medium    | list            |
 | 188  | [Best Time to Buy and Sell Stock IV](./code/188.md)                  | Hard      | dp,s            |
 | 213  | [House Robber II](./code/213.md)                                     | Medium    |                 |
